@@ -49,5 +49,5 @@ dashboards with gauges and charts.
 - Configure dashboard for view-only sharing if needed
 
 ## Author
-Siratun Nahar -  GitHub: [siratun25] (
+Siratun Nahar -  GitHub: [siratun25] (https://github.com/siratun25)
   
