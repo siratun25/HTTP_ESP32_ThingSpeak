@@ -47,4 +47,7 @@ dashboards with gauges and charts.
 - Open your channel dashboard
 - View real-time temperature and humidity using Gauge and Chart widgets
 - Configure dashboard for view-only sharing if needed
+
+## Author
+Siratun Nahar -  GitHub: [siratun25] (
   
