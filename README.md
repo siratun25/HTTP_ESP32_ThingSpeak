@@ -1,5 +1,3 @@
-# HTTP_ESP32_ThingSpeak
-HTTP/REST API/ESP32/DHT22/ThingSpeak/Cloud Integration
 
 ## Project Title
  ESP32 IoT Project with DHT22 & ThingSpeak
@@ -44,7 +42,7 @@ dashboards with gauges and charts.
 6. Open Serial Monitor to see sensor readings and server response
 7. Data will be sent automatically to ThingSpeak dashboard every 20 seconds
 
-## Usage/ / Dashboard View
+## Usage / Dashboard View
 - Login to ThingSpeak
 - Open your channel dashboard
 - View real-time temperature and humidity using Gauge and Chart widgets
