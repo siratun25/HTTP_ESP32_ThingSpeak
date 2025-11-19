@@ -4,11 +4,11 @@
 #include <HTTPClient.h>
 
 //WiFi credentials 
-#define WIFI_SSID     "Sumon"
-#define WIFI_PASSWORD "01717796447"
+#define WIFI_SSID     "**********"
+#define WIFI_PASSWORD "***************"
 
-String readApiKey = "Y4AL39YBBKAKN43T"; // YOUR_READ_API_KEY
-int channelID =  3168683; //YOUR_CHANNEL_ID
+String readApiKey = "***************"; // YOUR_READ_API_KEY
+int channelID =  ***********; //YOUR_CHANNEL_ID
 
 // Setup function
 void setup() {
