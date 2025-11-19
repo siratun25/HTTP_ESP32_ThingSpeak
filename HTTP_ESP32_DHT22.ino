@@ -5,8 +5,8 @@
 #include "DHT.h"
 
 //WiFi credentials
-#define WIFI_SSID     "Sumon"
-#define WIFI_PASSWORD "01717796447"
+#define WIFI_SSID     "*******"
+#define WIFI_PASSWORD "**************"
 
 // DHT22 sensor initialization
 #define DHTPIN 4
@@ -15,9 +15,9 @@
 DHT dht(DHTPIN, DHTTYPE);
 
 // ThingSpeak details
-String apiKey = "T130EKNRFOQKQKHO";  //YOUR_WRITE_API_KEY
+String apiKey = "**************";  //YOUR_WRITE_API_KEY
 String server = "api.thingspeak.com";
-int channelID = 3168683;  // YOUR_CHANNEL_ID - number, no quotes
+int channelID = ********;  // YOUR_CHANNEL_ID - number, no quotes
 
 WiFiClient client;
 
@@ -75,4 +75,5 @@ void loop() {
   delay(20000);  // ThingSpeak minimum update rate: 15 sec+
 }
  
+
 
